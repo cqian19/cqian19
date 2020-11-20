@@ -7,12 +7,12 @@ Software engineer making cool things.
 </a>
 
 ## Skills
-<img src="./images/python.svg" title="Python" width=35 >
-<img src="./images/java.svg" title="Java" width=35 >
-<img src="./images/html.svg" title="HTML" width=35 >
-<img src="./images/css-3.svg" title="CSS" width=35 >
-<img src="./images/javascript.jpg" title="JavaScript" width=35 >
-<img src="./images/aws.png" title="AWS" width=35 >
+<img src="./images/python.svg" title="Python" width=35 align="left">
+<img src="./images/java.svg" title="Java" width=35 align="left">
+<img src="./images/html.svg" title="HTML" width=35 align="left">
+<img src="./images/css-3.svg" title="CSS" width=35 align="left">
+<img src="./images/javascript.jpg" title="JavaScript" width=35 align="left">
+<img src="./images/aws.png" title="AWS" width=35 align="left">
 ... and more!
 
 ## Some project highlights
