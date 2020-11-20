@@ -13,6 +13,7 @@ Software engineer making cool things.
 <img src="./images/css-3.svg" title="CSS" width=35 align="left">
 <img src="./images/javascript.jpg" title="JavaScript" width=35 align="left">
 <img src="./images/aws.png" title="AWS" width=35 align="left">
+<img src="./images/react.svg" title="React" width=35 align="left">
 ... and more!
 <br/>
 
