@@ -45,7 +45,6 @@ Software engineer making cool things.
     &nbsp;&nbsp; A bot and web interface for Pokemon Go!
 </div>
 <br/>
-___
 
 ## Some of my Github stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cqian19 alt=cqian19 /> </p>
