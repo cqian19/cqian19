@@ -14,6 +14,7 @@ Software engineer making cool things.
 <img src="./images/javascript.jpg" title="JavaScript" width=35 align="left">
 <img src="./images/aws.png" title="AWS" width=35 align="left">
 ... and more!
+<br/>
 
 ## Some project highlights
 
