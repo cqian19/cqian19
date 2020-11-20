@@ -3,5 +3,5 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cqian19 alt=cqian19 /> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cqian19&show_icons=true&include_all_commits=True&hide=issues,contribs&line_height=40">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqian19&&langs_count=3">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cqian19&show_icons=true&include_all_commits=True&hide=issues,contribs&line_height=40&count_private=true&hide_rank=true&theme=vue">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqian19&&langs_count=3&theme=vue">
