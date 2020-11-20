@@ -47,7 +47,7 @@ Software engineer making cool things.
 <br/>
 ___
 
-## Some of my Github Stats
+## Some of my Github stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cqian19 alt=cqian19 /> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cqian19&show_icons=true&include_all_commits=True&hide=issues,contribs&line_height=40&count_private=true&hide_rank=true">
